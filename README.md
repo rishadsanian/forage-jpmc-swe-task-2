@@ -14,3 +14,7 @@ This ticket is done when the graph displayed in the client-side web application 
  The continuous updates to the graph should be the result of continuous requests and responses to and from the server for the stock data.
 
 This ticket is done when the graph is also able to aggregate duplicated data retrieved from the server
+
+
+## Completed Screenshot
+![completed-task](stock-visualization.gif)
